@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
+git
         Scanner scanner = new Scanner(System.in);
         System.out.println("wypisuj tekst w którym chcesz policzyć słowa\n"+ "[wypisz] - jeżeli chcesz zwrócić mapęsów, [quit] - jeżeli chcesz zakończyć program");
         String komenda;
